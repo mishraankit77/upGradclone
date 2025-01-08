@@ -1,3 +1,20 @@
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+body {
+    font-family: 'Inter', Arial, sans-serif;
+  }
+  
+
+h1, h2, h3 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600; /* Medium weight */
+  }
+  
+  p {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400; /* Regular weight */
+  }
